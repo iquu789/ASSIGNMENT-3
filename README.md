@@ -1,2 +1,2 @@
 # ASSIGNMENT-3
-ASSIGNMENT 3 WITH EXPLAINATION AND PYTHON CODE
+Assignment on model evaluation techniques used in machine learning, including accuracy metrics, confusion matrix interpretation, ROC/AUC, and cross-validation.
